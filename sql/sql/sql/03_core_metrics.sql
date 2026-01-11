@@ -1,1 +1,2 @@
-
+-- 03_core_metrics.sql
+-- Core SaaS metrics: MRR, ARR, customer churn, revenue churn
