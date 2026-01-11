@@ -1,0 +1,2 @@
+-- 01_table_creation.sql
+-- Raw table creation and initial data ingestion
