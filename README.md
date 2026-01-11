@@ -53,7 +53,7 @@ A Power BI dashboard was created to visualize SaaS growth and GTM performance us
 - Churn was calculated using subscriptions with a non-null end_date
 - Churn was aggregated at a monthly level using a MonthStart column
 - Date hierarchy was disabled to avoid daily-level noise
-#### Insights & Recommendations 
+# Insights & Recommendations 
 ### Key Insights
 
 1. Strong top-of-funnel but drop during activation
