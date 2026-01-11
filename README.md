@@ -28,3 +28,28 @@ Signup → Trial → Activated → Paid → Churned
 ### Assumptions & Limitations
 - Funnel events may not capture all user actions
 - Payment does not strictly depend on activation events
+
+## Dashboard (Power BI)
+
+A Power BI dashboard was created to visualize SaaS growth and GTM performance using cleaned data from MySQL.
+
+### Data Source
+- Power BI visuals were built using CSV exports from cleaned MySQL views
+- MySQL was used for all data cleaning, transformation, and metric calculations
+- CSVs were used in Power BI to avoid database connector dependencies
+
+### Visuals Included
+- Monthly MRR trend to track revenue performance over time
+- User conversion funnel from signup to churn
+- Monthly customer churn overview
+- Paid customer distribution by customer segment
+
+### Funnel Visualization Notes
+- Funnel values were derived from MySQL funnel analysis
+- Due to Power BI funnel aggregation behavior, a stage-based measure was used
+- Automatic display unit scaling was disabled to prevent rounding issues
+
+### Churn Visualization Notes
+- Churn was calculated using subscriptions with a non-null end_date
+- Churn was aggregated at a monthly level using a MonthStart column
+- Date hierarchy was disabled to avoid daily-level noise
