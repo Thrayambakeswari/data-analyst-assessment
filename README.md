@@ -80,6 +80,6 @@ A Power BI dashboard was created to visualize SaaS growth and GTM performance us
    Reduce “Unknown” segment through better data capture.
    Use segment-specific messaging and onboarding strategies.
 ### Next Steps
-Analyze conversion and churn by acquisition source.
-Build cohort-based retention analysis.
-Track activation-to-paid timelines to validate funnel accuracy.
+1. Analyze conversion and churn by acquisition source.
+2. Build cohort-based retention analysis.
+3. Track activation-to-paid timelines to validate funnel accuracy.
