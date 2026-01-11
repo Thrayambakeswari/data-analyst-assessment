@@ -57,42 +57,29 @@ A Power BI dashboard was created to visualize SaaS growth and GTM performance us
 ### Key Insights
 
 1. Strong top-of-funnel but drop during activation
-While all users complete signup and ~68% reach the trial stage, only ~40% of users complete activation. This indicates a significant drop-off between trial and activation, likely caused by onboarding friction or unclear activation milestones.
+   While all users complete signup and ~68% reach the trial stage, only ~40% of users complete activation. This indicates a significant drop-off between trial and    activation, likely caused by onboarding friction or unclear activation milestones.
 
 2. High paid conversion despite lower activation
-Approximately 90.6% of users convert to paid plans, which exceeds the number of activated users. This suggests either direct-to-paid conversions or incomplete activation event tracking.
+   Approximately 90.6% of users convert to paid plans, which exceeds the number of activated users. This suggests either direct-to-paid conversions or incomplete     activation event tracking.
 
 3. Early-stage churn concentration
-Monthly churn is highest in the initial months and decreases over time, indicating early retention challenges commonly seen in B2B SaaS products.
+   Monthly churn is highest in the initial months and decreases over time, indicating early retention challenges commonly seen in B2B SaaS products.
 
 4. SMB and Enterprise drive most paid users
-SMB and Enterprise segments contribute the majority of paid customers, while Mid-Market and Unknown segments show lower engagement.
+   SMB and Enterprise segments contribute the majority of paid customers, while Mid-Market and Unknown segments show lower engagement.
 
 ### Recommendations
-
 1. Improve trial-to-activation experience
-
-Simplify onboarding and highlight activation milestones clearly.
-
-Add product guidance and in-app nudges during the trial period.
-
-Review activation event tracking to ensure it reflects meaningful product usage.
-
+   Simplify onboarding and highlight activation milestones clearly.
+   Add product guidance and in-app nudges during the trial period.
+   Review activation event tracking to ensure it reflects meaningful product usage.
 2. Strengthen early retention strategies
-
-Introduce customer success touchpoints in the first 30 days.
-
-Identify and address early churn reasons through cohort analysis.
-
+   Introduce customer success touchpoints in the first 30 days.
+   Identify and address early churn reasons through cohort analysis.
 3. Improve customer segmentation quality
-
-Reduce “Unknown” segment through better data capture.
-
-Use segment-specific messaging and onboarding strategies.
+   Reduce “Unknown” segment through better data capture.
+   Use segment-specific messaging and onboarding strategies.
 ### Next Steps
-
 Analyze conversion and churn by acquisition source.
-
 Build cohort-based retention analysis.
-
 Track activation-to-paid timelines to validate funnel accuracy.
