@@ -1,0 +1,2 @@
+-- 04_funnel_analysis.sql
+-- Funnel analysis: Signup → Trial → Activated → Paid → Churned
