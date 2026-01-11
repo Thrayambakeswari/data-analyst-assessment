@@ -53,7 +53,8 @@ A Power BI dashboard was created to visualize SaaS growth and GTM performance us
 - Churn was calculated using subscriptions with a non-null end_date
 - Churn was aggregated at a monthly level using a MonthStart column
 - Date hierarchy was disabled to avoid daily-level noise
-Key Insights
+#### Insights & Recommendations 
+### Key Insights
 
 1. Strong top-of-funnel but drop during activation
 While all users complete signup and ~68% reach the trial stage, only ~40% of users complete activation. This indicates a significant drop-off between trial and activation, likely caused by onboarding friction or unclear activation milestones.
@@ -67,7 +68,7 @@ Monthly churn is highest in the initial months and decreases over time, indicati
 4. SMB and Enterprise drive most paid users
 SMB and Enterprise segments contribute the majority of paid customers, while Mid-Market and Unknown segments show lower engagement.
 
-Recommendations
+### Recommendations
 
 1. Improve trial-to-activation experience
 
@@ -88,7 +89,7 @@ Identify and address early churn reasons through cohort analysis.
 Reduce “Unknown” segment through better data capture.
 
 Use segment-specific messaging and onboarding strategies.
-Next Steps
+### Next Steps
 
 Analyze conversion and churn by acquisition source.
 
